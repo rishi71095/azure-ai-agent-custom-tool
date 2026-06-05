@@ -57,4 +57,4 @@ The agent acts as an **astronomy assistant** that can:
 
 Needs two variables:
 - AZURE_PROJECT_ENDPOINT= your-project-link
-- MODEL_DEPLOYMENT_NAME="gpt-4.1-mini"
+- MODEL_DEPLOYMENT_NAME="model-deployment"
