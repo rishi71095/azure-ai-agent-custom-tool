@@ -53,3 +53,8 @@ The agent acts as an **astronomy assistant** that can:
 - Understand tool-based agent architecture  
 
 ---
+## .env
+
+Needs two variables:
+- AZURE_PROJECT_ENDPOINT= your-project-link
+- MODEL_DEPLOYMENT_NAME="gpt-4.1-mini"
