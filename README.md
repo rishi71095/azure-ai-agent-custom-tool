@@ -56,5 +56,5 @@ The agent acts as an **astronomy assistant** that can:
 ## .env
 
 Needs two variables:
-- AZURE_PROJECT_ENDPOINT= your-project-link
-- MODEL_DEPLOYMENT_NAME="model-deployment"
+- AZURE_PROJECT_ENDPOINT = your-project-link
+- MODEL_DEPLOYMENT_NAME = model-deployment
