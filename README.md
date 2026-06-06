@@ -7,8 +7,6 @@ The agent acts as an **astronomy assistant** that can:
 - Calculate telescope rental costs based on user input 🔭  
 - Dynamically call Python functions during conversations  
 
----
-
 ## 🚀 Features
 
 - Custom function tool integration with AI agents  
@@ -17,7 +15,6 @@ The agent acts as an **astronomy assistant** that can:
 - Dynamic telescope rental cost calculator  
 - End-to-end agent + tool execution pipeline  
 
----
 
 ## 🧠 How It Works
 
@@ -26,7 +23,6 @@ The agent acts as an **astronomy assistant** that can:
 3. A Python function is executed via tool calling
 4. The result is returned in natural language form
 
----
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +31,6 @@ The agent acts as an **astronomy assistant** that can:
 - Python  
 - Function Calling (Tool Use)  
 
----
 
 ## 📦 Example Use Cases
 
@@ -43,16 +38,19 @@ The agent acts as an **astronomy assistant** that can:
 - “How much will it cost to rent a telescope for 3 nights?”  
 - “Tell me about upcoming lunar eclipses”  
 
----
 
 ## 📚 Learning Objectives
 
 - Build AI agents with custom tools  
 - Implement function calling workflows  
 - Extend agent capabilities with Python logic  
-- Understand tool-based agent architecture  
+- Understand tool-based agent architecture
 
----
+
+## Test run - Output
+
+<img width="909" height="739" alt="image" src="https://github.com/user-attachments/assets/b5fabc38-9008-4bae-90b5-a02397aa352c" />
+
 ## .env
 
 Needs two variables:
